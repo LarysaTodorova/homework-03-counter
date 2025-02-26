@@ -6,4 +6,4 @@
 СОФИЯ: index.html
 МАРИО: styles.css
 ЛАРИСА: JS
-ПЕТР: gitignore
+Петр: gitignore
