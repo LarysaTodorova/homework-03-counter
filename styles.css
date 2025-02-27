@@ -17,7 +17,7 @@ li {
   margin: 0;
   padding: 0;
 }
-
+/* root нам не нужен, у нас его нет в index.html */
 #root {
   display: flex;
   justify-content: center;
