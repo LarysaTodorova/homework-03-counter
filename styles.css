@@ -54,14 +54,14 @@ li {
   margin: 40px;
   gap: 40px;
 }
-
-.buttons button {
+/* это тоже лишнее */
+/* .buttons button {
   height: 50px;
   min-width: 160px;
   margin-top: 60px;
   font-size: large;
   border-radius: 40px;
-}
+} */
 
 .buttons button:hover {
   transition: color 0.3s;
